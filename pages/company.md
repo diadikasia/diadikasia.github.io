@@ -35,6 +35,6 @@ DBC Europe S.A. is in close partnership with a number of credible academic insti
   <p>From all the above, it can be deducted that not only is DBC EUROPE S.A. in the forefront of the business world of Brussels but also follows closely the European Commission projects and news.</p>
 </div>
   <div class="medium-4 columns">
-  <img src="{{ site.urlimg }}inside-office.png" alt="Inside the Offices">
+  <img src="{{ site.urlimg }}inside-office.jpg" alt="Inside the Offices">
   </div>
 </div>

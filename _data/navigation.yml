@@ -10,7 +10,7 @@
   side: left
   dropdown:
   - title: "Company Profile"
-    url: "#"
+    url: "/company/"
 
 - title: Blog
   url: "/blog/"

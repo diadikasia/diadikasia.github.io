@@ -5,8 +5,6 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-header:
-  image_fullwidth: dbc.png
 widget1:
   title: "Services"
   url: 'http://diadikasia.github.io/services/'

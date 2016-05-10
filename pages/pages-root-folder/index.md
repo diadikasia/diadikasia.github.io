@@ -6,21 +6,21 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: you-can-delete-me-header.png
+  image_fullwidth: dbc.png
 widget1:
-  title: "Widget 1"
+  title: "Services"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+  image: 'services.jpg'
   text: ''
 widget2:
-  title: "Widget 2"
+  title: "Selected Projects"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+  image: 'success.jpg'
   text: ''
 widget3:
-  title: "Widget 3"
+  title: "Industries - Customers"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+  image: 'customers.jpg'
   text: ''
 #
 # Use the call for action to show a button on the frontpage

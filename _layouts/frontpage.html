@@ -60,7 +60,7 @@ format: blog-index
 {% endcomment %}
 
 <!-- {% unless site.posts == empty %} -->
-  {% unless false %}
+{% unless false %}
     <div class="row t30 b20 homepage">
         <div class="small-12 columns">
             {% for post in site.posts limit:1 %}

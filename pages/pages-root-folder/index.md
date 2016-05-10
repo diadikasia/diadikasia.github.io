@@ -10,17 +10,17 @@ header:
 widget1:
   title: "Services"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'services.jpg'
+  image: '/images/services.jpg'
   text: ''
 widget2:
   title: "Selected Projects"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'success.jpg'
+  image: '/images/success.jpg'
   text: ''
 widget3:
   title: "Industries - Customers"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'customers.jpg'
+  image: '/images/customers.jpg'
   text: ''
 #
 # Use the call for action to show a button on the frontpage

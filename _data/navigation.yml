@@ -1,19 +1,15 @@
 #
 #   Navigation to the left › side: left
 #
-- title: Start
+- title: Diadikasia
   url: "/"
   side: left
 
-- title: "Dropdown Menu"
+- title: "About Us"
   url: "#"
   side: left
   dropdown:
-  - title: "Dropdown Menu 1"
-    url: "#"
-  - title: "Dropdown Menu 2"
-    url: "#"
-  - title: "Dropdown Menu 3"
+  - title: "Company Profile"
     url: "#"
 
 - title: Blog

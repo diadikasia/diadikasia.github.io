@@ -1,16 +1,21 @@
 ---
-layout: page
-title: "Company Profile"
-subheadline: ""
-teaser: ""
+layout: page-fullwidth
+title:  "Company Profile"
 permalink: /company/
 ---
 
 DBC Europe S.A. was established in 2015 and its mission is to provide premium quality services worldwide for private, public entities and international organizations in order to contribute in a constructive way to customers’ development efforts.
 
-The modern, challenging environment of Consulting Services sector constitutes a continuous incentive for excellence and innovation, under the spectrum of deep understanding and assessment of the specific needs of our clients.
+<div class="row">
+  <div class="medium-4 columns t30">
+  <img src="{{ site.urlimg }}offices.png" alt="Offices">
+  </div>
+  <div class="medium-8 columns">
+    The modern, challenging environment of Consulting Services sector constitutes a continuous incentive for excellence and innovation, under the spectrum of deep understanding and assessment of the specific needs of our clients.
 
-Placing the quality of services provided always at the first place, our company possesses a pool of front line personnel with extensive experience in the management of projects financed by the European Bank of Investment (EBI), European Union (EU) and World Bank (WB). The main beneficiaries of these projects are nation-wide public organizations in various countries. The personnel of DBC Europe S.A., endowed with top abilities and high advanced knowledge, provides a complete range of specialised services in the fields of:
+    Placing the quality of services provided always at the first place, our company possesses a pool of front line personnel with extensive experience in the management of projects financed by the European Bank of Investment (EBI), European Union (EU) and World Bank (WB). The main beneficiaries of these projects are nation-wide public organizations in various countries. The personnel of DBC Europe S.A., endowed with top abilities and high advanced knowledge, provides a complete range of specialised services in the fields of:
+  </div>
+</div>
 
 - Public Administration Reform
 - Development of Small Medium Enterprises (SMEs)
@@ -29,3 +34,32 @@ Ront Point Schuman, where the company has its operations, is one of the most cen
 The set of buildings situated in Ront Point Schuman is completed with many international government offices and premises of international companies, making the region an area that attracts worldwide interest and attention.
 
 From all the above, it can be deducted that not only is DBC EUROPE S.A. in the forefront of the business world of Brussels but also follows closely the European Commission projects and news.
+
+
+<div class="row">
+    <div class="medium-4 columns t30">
+    <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns t30">
+      <img src="{{ site.urlimg }}gallery-example-5.jpg" alt="">
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns t30">
+      <img src="{{ site.urlimg }}gallery-example-6.jpg" alt="">
+    </div><!-- /.medium-4.columns -->
+
+</div><!-- /.row -->
+
+
+<div class="row">
+    <div class="medium-8 columns t30">
+    <img src="{{ site.urlimg }}gallery-example-7.jpg" alt="">
+    </div><!-- /.medium-8.columns -->
+
+    <div class="medium-4 columns t30">
+      <img src="{{ site.urlimg }}gallery-example-3.jpg" alt="">
+      <img class="t30" src="{{ site.urlimg }}gallery-example-8.jpg" alt="">
+    </div><!-- /.medium-4.columns -->
+
+</div><!-- /.row -->

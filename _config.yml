@@ -41,7 +41,7 @@ urlimg: 'https://diadikasia.github.io/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "dbc.png"
+# logo: "dbc.png"
 
 
 # Paginates all X entries

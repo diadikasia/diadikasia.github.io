@@ -9,7 +9,7 @@ header:
   image_fullwidth: dbc.png
 widget1:
   title: "Services"
-  url: 'https://diadikasia.github.io/services/'
+  url: 'http://diadikasia.github.io/services/'
   image: '/images/services.jpg'
   text: ''
 widget2:

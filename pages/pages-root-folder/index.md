@@ -8,7 +8,7 @@ layout: frontpage
 widget1:
   title: "Services"
   url: 'http://diadikasia.github.io/services/'
-  image: '/images/services_image.jpg'
+  image: '/images/services.jpg'
   text: ''
 widget2:
   title: "Selected Projects"
@@ -18,7 +18,7 @@ widget2:
 widget3:
   title: "Industries - Customers"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: '/images/customers_image.png'
+  image: '/images/customers.jpg'
   text: ''
 permalink: /index.html
 ---

@@ -64,10 +64,10 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 #masthead {
-    background-color: $primary-color;
+    background-color: $third-color;
 }
 #masthead-no-image-header {
-    background-color: $primary-color;
+    background-color: $third-color;
 }
 #masthead-with-text {
     text-align: center;
@@ -223,7 +223,7 @@ body.video cite { color: #fff; }
     color: #fff;
 }
 #page-meta .button:hover {
-    background: $secondary-color;
+    background: $primary-color;
 }
 .meta-info p {
   font-size: rem-calc(13);

@@ -12,12 +12,12 @@ widget1:
   text: ''
 widget2:
   title: "Selected Projects"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
+  url: 'http://diadikasia.github.io/projects/'
   image: '/images/success.jpg'
   text: ''
 widget3:
   title: "Industries - Customers"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
+  url: 'http://diadikasia.github.io/industries-customers/'
   image: '/images/customers.jpg'
   text: ''
 permalink: /index.html

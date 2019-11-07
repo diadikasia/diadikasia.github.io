@@ -10,6 +10,8 @@ Title: Solar-Biomass Reversible energy system for covering a large share of ener
 Duration: 48 months
 Topic: H2020-Energy
 Summary: The SolBio-Rev project will develop a flexible energy system suitable for building integration based on renewables for covering a large share of energy demand (heating/cooling/electricity). Its flexibility is derived from the long-term collaboration of key industrial partners with research organisations, having in mind the large variety of EU buildings, especially non-residential (types, uses and sizes). 
+
+
 Further information: https://cordis.europa.eu/project/rcn/221765/factsheet/en
 
 

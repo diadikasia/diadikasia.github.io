@@ -11,19 +11,8 @@ DBC Europe S.A. was established in 2015 and its mission is to provide premium qu
   <img src="{{ site.urlimg }}offices.png" alt="Offices">
   </div>
   <div class="medium-8 columns">
-    <p>The modern, challenging environment of Consulting Services sector constitutes a continuous incentive for excellence and innovation, under the spectrum of deep understanding and assessment of the specific needs of our clients.</p>
-    <p>Placing the quality of services provided always at the first place, our company possesses a pool of front line personnel with extensive experience in the management of projects financed by the European Bank of Investment (EBI), European Union (EU) and World Bank (WB). The main beneficiaries of these projects are nation-wide public organizations in various countries. The personnel of DBC Europe S.A., endowed with top abilities and high advanced knowledge, provides a complete range of specialised services in the fields of:</p>
-    <ul>
-      <li>Public Administration Reform</li>
-      <li>Development of Small Medium Enterprises (SMEs)</li>
-      <li>Labour Market & Migration</li>
-      <li>Health Reform</li>
-      <li>Transportation</li>
-      <li>Energy/Environment</li>
-      <li>Tourism</li>
-    </ul>
-  </div>
-</div>
+        
+<p>Experts of DBC Europe have proven and practical professional experience in international project management and financing. They also have different background in areas ranging from research and innovation, regional development and economic</p> cooperation; sustainable economic growth; public administration reform; governance; social inclusion; entrepreneurship; information and communication technologies; energy; security; cybersecurity; eHealth; transport; agriculture; environment. </p>
 
 DBC Europe S.A. is in close partnership with a number of credible academic institutions, research centres and organizations all over Europe and its team has been more than successful at developing and exploiting institutional reform projects. The later, in combination with the total respect to clients’ needs is a success key and the greatest asset to its operations.
 

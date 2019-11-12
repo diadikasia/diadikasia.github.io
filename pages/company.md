@@ -4,7 +4,9 @@ title:  "Company Profile"
 permalink: /company/
 ---
 
-DBC Europe S.A. was established in 2015 and its mission is to provide premium quality services worldwide for private, public entities and international organizations in order to contribute in a constructive way to customers’ development efforts.
+DBC Europe operates in Brussels since 2015 and has extensive experience in European funded technical assistance projects  and EU Horizon grants 
+DBC-Europe S.A. is subsidiary of DIADIKASIA Business Consultants (DBC) in Greece ranging among the most extrovert and competitive SMEs in Greece, with exports representing 30% of total annual turnover (3-year average), and presence in the wider region of Balkans, Turkey and Eastern Europe.
+
 
 <div class="row">
   <div class="medium-4 columns t30">

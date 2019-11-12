@@ -4,7 +4,7 @@ title:  "Company Profile"
 permalink: /company/
 ---
 
-DBC Europe operates in Brussels since 2015 and has extensive experience in European funded technical assistance projects  and EU Horizon grants DBC-Europe S.A. is subsidiary of DIADIKASIA Business Consultants (DBC) in Greece ranging among the most extrovert and competitive SMEs in Greece, with exports representing 30% of total annual turnover (3-year average), and presence in the wider region of Balkans, Turkey and Eastern Europe.
+<b>DBC Europe</b> operates in Brussels since 2015 and has extensive experience in European funded technical assistance projects  and EU Horizon grants DBC-Europe S.A. is subsidiary of DIADIKASIA Business Consultants (DBC) in Greece ranging among the most extrovert and competitive SMEs in Greece, with exports representing 30% of total annual turnover (3-year average), and presence in the wider region of Balkans, Turkey and Eastern Europe.
 
 
 <div class="row">

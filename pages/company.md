@@ -4,8 +4,7 @@ title:  "Company Profile"
 permalink: /company/
 ---
 
-DBC Europe operates in Brussels since 2015 and has extensive experience in European funded technical assistance projects  and EU Horizon grants 
-DBC-Europe S.A. is subsidiary of DIADIKASIA Business Consultants (DBC) in Greece ranging among the most extrovert and competitive SMEs in Greece, with exports representing 30% of total annual turnover (3-year average), and presence in the wider region of Balkans, Turkey and Eastern Europe.
+DBC Europe operates in Brussels since 2015 and has extensive experience in European funded technical assistance projects  and EU Horizon grants DBC-Europe S.A. is subsidiary of DIADIKASIA Business Consultants (DBC) in Greece ranging among the most extrovert and competitive SMEs in Greece, with exports representing 30% of total annual turnover (3-year average), and presence in the wider region of Balkans, Turkey and Eastern Europe.
 
 
 <div class="row">
@@ -14,7 +13,7 @@ DBC-Europe S.A. is subsidiary of DIADIKASIA Business Consultants (DBC) in Greece
   </div>
   <div class="medium-8 columns">
         
-<p>Experts of DBC Europe have proven and practical professional experience in international project management and financing. They also have different background in areas ranging from research and innovation, regional development and economic</p> cooperation; sustainable economic growth; public administration reform; governance; social inclusion; entrepreneurship; information and communication technologies; energy; security; cybersecurity; eHealth; transport; agriculture; environment. </p>
+<p>Experts of DBC Europe have proven and practical professional experience in international project management and financing. They also have different background in areas ranging from research and innovation, regional development and economic</p> cooperation; sustainable economic growth; public administration reform; governance; social inclusion; entrepreneurship; information and communication technologies; energy; security; cybersecurity; eHealth; transport; agriculture; environment.
 
 DBC Europe S.A. is in close partnership with a number of credible academic institutions, research centres and organizations all over Europe and its team has been more than successful at developing and exploiting institutional reform projects. The later, in combination with the total respect to clients’ needs is a success key and the greatest asset to its operations.
 

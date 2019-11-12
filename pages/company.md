@@ -13,7 +13,9 @@ DBC Europe operates in Brussels since 2015 and has extensive experience in Europ
   </div>
   <div class="medium-8 columns">
         
-<p>Experts of DBC Europe have proven and practical professional experience in international project management and financing. They also have different background in areas ranging from research and innovation, regional development and economic</p> cooperation; sustainable economic growth; public administration reform; governance; social inclusion; entrepreneurship; information and communication technologies; energy; security; cybersecurity; eHealth; transport; agriculture; environment. Experts of DBC Europe successfully participate in international development and institutional reform projects, funded by the European Commission, the European Investment Bank and the World Bank and proposals funded by European research programmes, such as HORIZON 2020.
+<p>Experts of DBC Europe have proven and practical professional experience in international project management and financing. They also have different background in areas ranging from research and innovation, regional development and economic cooperation; sustainable economic growth; public administration reform; governance; social inclusion; entrepreneurship; information and communication technologies; energy; security; cybersecurity; eHealth; transport; agriculture; environment.
+<div></div>
+Experts of DBC Europe successfully participate in international development and institutional reform projects, funded by the European Commission, the European Investment Bank and the World Bank and proposals funded by European research programmes, such as HORIZON 2020.
 
 <div class="row">
 <div class="medium-8 columns t30">

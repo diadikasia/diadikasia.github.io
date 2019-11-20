@@ -5,9 +5,9 @@
 #  url: "/"
 #  side: left
 
--image: <img src="/assets/img/logo.png">
-  url: "/"
-  side: left
+#-image: <img src="/assets/img/logo.png">
+# url: "/"
+# side: left
 
 #- title: "About Us"
 #  url: "#"

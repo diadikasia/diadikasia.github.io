@@ -17,7 +17,7 @@ widget2:
   text: ''
 widget3:
   title: "Our Network"
-  url: 'http://diadikasia.github.io/industries-customers/'
+  url: 'http://diadikasia.github.io/network/'
   image: '/images/customers.jpg'
   text: ''
 permalink: /index.html

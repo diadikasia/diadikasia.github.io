@@ -11,12 +11,12 @@ widget1:
   image: '/images/services.jpg'
   text: ''
 widget2:
-  title: "Selected Projects"
+  title: "Projects"
   url: 'http://diadikasia.github.io/projects/'
   image: '/images/success.jpg'
   text: ''
 widget3:
-  title: "Industries - Customers"
+  title: "Our Network"
   url: 'http://diadikasia.github.io/industries-customers/'
   image: '/images/customers.jpg'
   text: ''

@@ -5,12 +5,12 @@
   url: "/"
   side: left
 
-- title: "About Us"
-  url: "#"
-  side: left
-  dropdown:
-  - title: "Company Profile"
-    url: "/company/"
+#- title: "About Us"
+#  url: "#"
+#  side: left
+#  dropdown:
+#  - title: "Company Profile"
+#    url: "/company/"
 
 # - title: Blog
 #   url: "/blog/"
@@ -22,13 +22,13 @@
 #
 #   Navigation to the right › side: right
 #
-- title: "Info"
-  url: "/info/"
-  side: right
+#- title: "Info"
+#  url: "/info/"
+#  side: right
 
-- title: "Search"
-  url: "/search/"
-  side: right
+#- title: "Search"
+# url: "/search/"
+# side: right
 
 - title: "Contact"
   url: "/contact/"

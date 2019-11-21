@@ -5,6 +5,10 @@
 #  url: "/"
 #  side: left
 
+image: /assets/img/logo.png
+url: "/"
+side: left
+
 #- title: "About Us"
 #  url: "#"
 #  side: left

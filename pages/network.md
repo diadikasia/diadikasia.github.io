@@ -40,3 +40,24 @@ permalink: /network/
 <li>Vienna University of Technology</li>
 <li>KTH Royal Institute of Technology</li>
 </ul>
+
+<p><strong>Other </strong></p>
+<ul>
+<li>FAHRENHEIT GMBH</li>
+<li>National Research Council (Consiglio Nazionale delle Ricerche)</li>
+<li>E.A.V.E LTD</li>
+<li>AkoTec Produktionsgesellschaft mbH</li>
+<li>DAIKIN AIRCONDITIONING HELLAS SA</li>
+<li>TECHLINK ASBL</li>
+<li>ÖkoFEN Pelletsheizung</li>
+<li>STRABAG BELGIUM</li>
+<li>Alpes Lasers S.A.</li>
+<li>QuantaRed Technologies GmbH</li>
+<li>IRsweep AIG</li>
+<li>IMEC- Interuniversitair Micro-Electronica Centrum</li>
+<li>CTR - Carinthian Tech Research AG</li>
+<li>OMV- Exploration &amp; Production GMBH</li>
+<li>TUPRAS - Turkish Petroleum Refineries Corporation</li>
+<li>Alpes Laser SA</li>
+<li>AUG Signals Ltd</li>
+</ul>

@@ -28,3 +28,15 @@ permalink: /network/
 <li>Ministry of Health – Romania</li>
 <li>Ministry of Administration and Interior -Romania</li>
 </ul>
+
+<p><strong>Universities and Research Institutions </strong></p>
+<ul>
+<li>National Technical University of Athens</li>
+<li>Friedrich-Alexander-Universität Erlangen-Nürnberg</li>
+<li>Universitat de Lleida</li>
+<li>THE University OF Sussex</li>
+<li>Karlsruher Institut für Technologie</li>
+<li>Universita' degli Studi di Messina</li>
+<li>Vienna University of Technology</li>
+<li>KTH Royal Institute of Technology</li>
+</ul>

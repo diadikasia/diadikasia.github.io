@@ -6,8 +6,10 @@ teaser: ""
 permalink: /network/
 ---
 
-<b>European and International Bodies</b>
-European Commission
-World Bank
 
+<p>&nbsp;<strong>European and International Bodies</strong></p>
+<ul>
+<li>European Commission</li>
+<li>World Bank</li>
+</ul>
 
